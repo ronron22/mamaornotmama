@@ -1,3 +1,5 @@
+# todo générer une liste de choix unique
+
 miam=(" " "mama" "pizza" "pizza" "mama" "japonais" "créperie" "mama" "mama" "japonais") 
 
 echo "Aujourd'hui tu vas t'étouffer chez (le|la) :"
