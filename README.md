@@ -21,7 +21,6 @@ mama
 mama
 ```
 
-## Ameliorations
+## Améliorations
 
 utiliser un dictionnaire associatif pour ajouter une notion de poids (plutôt que de multiplier les clés) 
-
